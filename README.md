@@ -33,8 +33,15 @@ use 2 microcontrollers like arduino uno's
 the rf module is used as the commucation means is  433MHz RF Transmitter Receiver Wireless Module
 
 ## components:
-	rf https://www.electronicscomp.com/433mhz-rf-transmitter-receiver-module-india?gclid=CjwKCAjw5_DsBRBPEiwAIEDRW19dJXQeM6LmA6BWHD-u8VNiiXAJngK2LbEg7soNXiEMxB0ih39olxoC9RQQAvD_BwE
-	pwm driver https://robu.in/product/diy-kit-16-channel-12-bit-pwmservo-driver-i2c-interface-pca9685-arduino-raspberry-pi-shield-module-servo-shield/?gclid=CjwKCAjw5_DsBRBPEiwAIEDRW6ghipWKUIy-Tk2tmETOTaLoplHm3qM4qoK-F7Wi1qdDSpyVsQ64gxoCuLEQAvD_BwE
-	mcu https://robu.in/product/arduino-uno-r3-ch340g-atmega328p-devlopment-board/?gclid=CjwKCAjw5_DsBRBPEiwAIEDRW1GVc3Mb3zeVRW6Jp6AGMvNlHIvgR-Y0p08nwS0UG3Dd8yhdi_q9DhoCkiEQAvD_BwE
-	flex https://robu.in/product/flex-sensor-2-2-bend-sensor-hand-gesture-recognition/?gclid=CjwKCAjw5_DsBRBPEiwAIEDRWyqpaIGddGFoY7Aoy2E55tt3CxYr6aAtUQhCBdsJe5Dx7mgV67oYwxoC-20QAvD_BwE
-	servo https://robu.in/product/towerpro-sg90-9g-mini-servo-9-gram/?gclid=CjwKCAjw5_DsBRBPEiwAIEDRW_j57tTEzhvRCmtbW7DVromyIXnX4H1uUrrPMlKaQHmabJT8DYTEYRoCwqQQAvD_BwE
+ rf																 https://www.electronicscomp.com/433mhz-rf-transmitter-receiver-module-india?gclid=CjwKCAjw5_DsBRBPEiwAIEDRW19dJXQeM6LmA6BWHD-u8VNiiXAJngK2LbEg7soNXiEMxB0ih39olxoC9RQQAvD_BwE
+
+ pwm driver 
+https://robu.in/product/diy-kit-16-channel-12-bit-pwmservo-driver-i2c-interface-pca9685-arduino-raspberry-pi-shield-module-servo-shield/?gclid=CjwKCAjw5_DsBRBPEiwAIEDRW6ghipWKUIy-Tk2tmETOTaLoplHm3qM4qoK-F7Wi1qdDSpyVsQ64gxoCuLEQAvD_BwE
+
+ mcu
+https://robu.in/product/arduino-uno-r3-ch340g-atmega328p-devlopment-board/?gclid=CjwKCAjw5_DsBRBPEiwAIEDRW1GVc3Mb3zeVRW6Jp6AGMvNlHIvgR-Y0p08nwS0UG3Dd8yhdi_q9DhoCkiEQAvD_BwE
+
+ flex 
+ https://robu.in/product/flex-sensor-2-2-bend-sensor-hand-gesture-recognition/?gclid=CjwKCAjw5_DsBRBPEiwAIEDRWyqpaIGddGFoY7Aoy2E55tt3CxYr6aAtUQhCBdsJe5Dx7mgV67oYwxoC-20QAvD_BwE
+
+ servo https://robu.in/product/towerpro-sg90-9g-mini-servo-9-gram/?gclid=CjwKCAjw5_DsBRBPEiwAIEDRW_j57tTEzhvRCmtbW7DVromyIXnX4H1uUrrPMlKaQHmabJT8DYTEYRoCwqQQAvD_BwE
