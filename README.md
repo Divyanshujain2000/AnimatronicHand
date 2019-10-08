@@ -13,7 +13,7 @@ In today’s world, to avoid any sort of skin diseases arising for workers in th
 Here, in this project we have a made a simple animatronic hand with the help of arduino and servo motors. The user wears the glove and the robotic hand imitates the hand gestures. When the user bends a finger the sensor on the glove detects the angle and send a signal to the the robotic hand. The signal can be sent through wireless communication using simple radio frequency transmission. Here, in this project we have used RF transmitter - receiver for the wireless communication. The robotic hand upon receiving the signal maps the bending angle of the finger to the motor angle and then the motor pulls the corresponding finger (of the robotic hand) with the help of a thread. 
 
 All this project requires are microcontrollers, flex sensors, servo motors, a hand frame, a glove, power source and Rf transmitter-receiver for wireless communication. Xbee can be used to provide long range communication, however, to keep the project simple we have used a 433Mhz RF transmitter-receiver. For the ease of controlling servo motors we have used a PWM driver(PCA9865). It is a 16 channel pwm driver with I2C interface. So via various coding of the Arduino, the animatronic hand can be made and utilized for various applications. 
-
+https://github.com/Divyanshujain2000/AnimatronicHand/issues/1#issue-504197136
 ## config:
 
 use 2 microcontrollers like arduino uno's
